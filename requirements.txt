@@ -20,7 +20,7 @@ idna==2.8
 incremental==17.5.0
 paramiko==2.4.2
 pika==1.0.0
-Pillow==6.0.0
+Pillow==6.2.0
 post==2018.11.20
 public==2018.11.20
 pyasn1==0.4.5
