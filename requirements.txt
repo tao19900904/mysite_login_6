@@ -8,7 +8,7 @@ chardet==3.0.4
 constantly==15.1.0
 cryptography==2.6.1
 demjson==2.2.4
-Django==2.2
+Django==2.2.13
 django-ranged-response==0.2.0
 django-simple-captcha==0.5.11
 get==2018.11.19
