@@ -18,7 +18,7 @@ hashlib-additional==1.0.1
 hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
-paramiko==2.4.2
+paramiko==2.10.1
 pika==1.0.0
 Pillow==6.0.0
 post==2018.11.20
